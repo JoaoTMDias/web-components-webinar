@@ -1,0 +1,12 @@
+node_modules
+*-debug.log
+*-error.log
+/.nyc_output
+/dist
+/lib
+/package-lock.json
+/tmp
+
+coverage
+coverage-reports
+.nyc_output
